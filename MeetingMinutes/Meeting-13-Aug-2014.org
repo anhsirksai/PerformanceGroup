@@ -1,4 +1,4 @@
-* Performance Goup Meeting Minutes.
+* Performance Goup Meeting Minutes. 2014-08-13 Wed
 
 ** Performance and Model checking.
 +  Tools : Explore SPIN and NuSMV.
@@ -30,5 +30,5 @@
 [[Performance Evaluation Process Algebra][http://www.dcs.ed.ac.uk/pepa/]]
 [[Process Algebras for Quantitative Analysis][http://www.dcs.ed.ac.uk/pepa/quantitativeanalysis.pdf]]
 
-** Date of Next meeting   <2014-08-27 Wed>
+** Date of Next meeting   2014-08-27 Wed
 +  Presenter: sai krishna on the paper *Process Algebras for Quantitative Analysis*
