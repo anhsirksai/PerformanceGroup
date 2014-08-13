@@ -1,0 +1,34 @@
+* Performance Goup Meeting Minutes.
+
+** Performance and Model checking.
++  Tools : Explore SPIN and NuSMV.
++  Conferences and papers to look out:
+   - LICS
+   - find out papers from ACM transactions in performance area.
+
+** Broad picture to look at performance of a system.
++  System can be a 
+   - BlackBox : we just depend on the input provided to the system and other external factors to improve the performance.
+   - Whitebox : Modifying the actual system and do a performance study.
+
+** Performance in various levels
+| Applications |
+| Compilers    |
+| Network      |
+| Hardware     |
+
+** Areas identified to explore :
+| performance of cloud and virtualization technologies.(ex: live migration)             |
+| performance based on client side of web-applications(browser performance)             |
+| Machine learning techniques and static analysis methods to build performance systems. |
+
+** Performance from a ML perspective:
++  depending on the *Analytic study*/*Assumptions* we come up with a *function* with *co-efficients(that map to invariants of a system)*.
+   Insert this function into the system and predict the performance.
+
+** Study tasks Identified
+[[Performance Evaluation Process Algebra][http://www.dcs.ed.ac.uk/pepa/]]
+[[Process Algebras for Quantitative Analysis][http://www.dcs.ed.ac.uk/pepa/quantitativeanalysis.pdf]]
+
+** Date of Next meeting   <2014-08-27 Wed>
++  Presenter: sai krishna on the paper *Process Algebras for Quantitative Analysis*
